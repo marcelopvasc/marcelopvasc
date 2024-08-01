@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Marcelo !
 
-- 🔭 I’m currently working on automation testing using Cypress and Javascript 
-- 🌱 I’m currently learning performance testing using K6
+- 🔭 I’m currently working on automation testing for Mobile (Android and IOS) using WebdriverIO, Javascript and Typescript. 
 
 ![Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelopvasc&show_icons=true&theme=vue-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelopvasc&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
